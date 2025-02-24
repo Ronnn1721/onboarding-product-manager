@@ -43,7 +43,7 @@ To allow the script to create issues, labels, and milestones, you need to genera
 Download the source repository to your local machine:
 ```sh
  git clone https://github.com/Focus-Bear/onboarding-product-manager.git
- cd onboarding-frontend-react
+ cd onboarding-product-manager
 ```
 
 ### **4️⃣ Run the Script to Duplicate Issues, Labels, and Milestones**
